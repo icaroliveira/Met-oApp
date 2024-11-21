@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		C05369192CED3D180084F6AE /* PBXContainerItemProxy */ = {
+		C08553D42CEEE9CA00F709FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C05369002CED3D160084F6AE /* Project object */;
+			containerPortal = C08553BB2CEEE9C800F709FA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C05369072CED3D160084F6AE;
+			remoteGlobalIDString = C08553C22CEEE9C800F709FA;
 			remoteInfo = "MetéoApp";
 		};
-		C05369232CED3D180084F6AE /* PBXContainerItemProxy */ = {
+		C08553DE2CEEE9CA00F709FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C05369002CED3D160084F6AE /* Project object */;
+			containerPortal = C08553BB2CEEE9C800F709FA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C05369072CED3D160084F6AE;
+			remoteGlobalIDString = C08553C22CEEE9C800F709FA;
 			remoteInfo = "MetéoApp";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C05369082CED3D160084F6AE /* MetéoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MetéoApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C05369182CED3D180084F6AE /* MetéoAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MetéoAppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C05369222CED3D180084F6AE /* MetéoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MetéoAppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C08553C32CEEE9C800F709FA /* MetéoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MetéoApp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C08553D32CEEE9CA00F709FA /* MetéoAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MetéoAppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C08553DD2CEEE9CA00F709FA /* MetéoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MetéoAppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C053690A2CED3D160084F6AE /* MetéoApp */ = {
+		C08553C52CEEE9C800F709FA /* MetéoApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "MetéoApp";
 			sourceTree = "<group>";
 		};
-		C053691B2CED3D180084F6AE /* MetéoAppTests */ = {
+		C08553D62CEEE9CA00F709FA /* MetéoAppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "MetéoAppTests";
 			sourceTree = "<group>";
 		};
-		C05369252CED3D180084F6AE /* MetéoAppUITests */ = {
+		C08553E02CEEE9CA00F709FA /* MetéoAppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "MetéoAppUITests";
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C05369052CED3D160084F6AE /* Frameworks */ = {
+		C08553C02CEEE9C800F709FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C05369152CED3D180084F6AE /* Frameworks */ = {
+		C08553D02CEEE9CA00F709FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C053691F2CED3D180084F6AE /* Frameworks */ = {
+		C08553DA2CEEE9CA00F709FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C05368FF2CED3D160084F6AE = {
+		C08553BA2CEEE9C800F709FA = {
 			isa = PBXGroup;
 			children = (
-				C053690A2CED3D160084F6AE /* MetéoApp */,
-				C053691B2CED3D180084F6AE /* MetéoAppTests */,
-				C05369252CED3D180084F6AE /* MetéoAppUITests */,
-				C05369092CED3D160084F6AE /* Products */,
+				C08553C52CEEE9C800F709FA /* MetéoApp */,
+				C08553D62CEEE9CA00F709FA /* MetéoAppTests */,
+				C08553E02CEEE9CA00F709FA /* MetéoAppUITests */,
+				C08553C42CEEE9C800F709FA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C05369092CED3D160084F6AE /* Products */ = {
+		C08553C42CEEE9C800F709FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C05369082CED3D160084F6AE /* MetéoApp.app */,
-				C05369182CED3D180084F6AE /* MetéoAppTests.xctest */,
-				C05369222CED3D180084F6AE /* MetéoAppUITests.xctest */,
+				C08553C32CEEE9C800F709FA /* MetéoApp.app */,
+				C08553D32CEEE9CA00F709FA /* MetéoAppTests.xctest */,
+				C08553DD2CEEE9CA00F709FA /* MetéoAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C05369072CED3D160084F6AE /* MetéoApp */ = {
+		C08553C22CEEE9C800F709FA /* MetéoApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C053692C2CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoApp" */;
+			buildConfigurationList = C08553E72CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoApp" */;
 			buildPhases = (
-				C05369042CED3D160084F6AE /* Sources */,
-				C05369052CED3D160084F6AE /* Frameworks */,
-				C05369062CED3D160084F6AE /* Resources */,
+				C08553BF2CEEE9C800F709FA /* Sources */,
+				C08553C02CEEE9C800F709FA /* Frameworks */,
+				C08553C12CEEE9C800F709FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C053690A2CED3D160084F6AE /* MetéoApp */,
+				C08553C52CEEE9C800F709FA /* MetéoApp */,
 			);
 			name = "MetéoApp";
 			packageProductDependencies = (
 			);
 			productName = "MetéoApp";
-			productReference = C05369082CED3D160084F6AE /* MetéoApp.app */;
+			productReference = C08553C32CEEE9C800F709FA /* MetéoApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C05369172CED3D180084F6AE /* MetéoAppTests */ = {
+		C08553D22CEEE9CA00F709FA /* MetéoAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C053692F2CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoAppTests" */;
+			buildConfigurationList = C08553EA2CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoAppTests" */;
 			buildPhases = (
-				C05369142CED3D180084F6AE /* Sources */,
-				C05369152CED3D180084F6AE /* Frameworks */,
-				C05369162CED3D180084F6AE /* Resources */,
+				C08553CF2CEEE9CA00F709FA /* Sources */,
+				C08553D02CEEE9CA00F709FA /* Frameworks */,
+				C08553D12CEEE9CA00F709FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C053691A2CED3D180084F6AE /* PBXTargetDependency */,
+				C08553D52CEEE9CA00F709FA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				C053691B2CED3D180084F6AE /* MetéoAppTests */,
+				C08553D62CEEE9CA00F709FA /* MetéoAppTests */,
 			);
 			name = "MetéoAppTests";
 			packageProductDependencies = (
 			);
 			productName = "MetéoAppTests";
-			productReference = C05369182CED3D180084F6AE /* MetéoAppTests.xctest */;
+			productReference = C08553D32CEEE9CA00F709FA /* MetéoAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C05369212CED3D180084F6AE /* MetéoAppUITests */ = {
+		C08553DC2CEEE9CA00F709FA /* MetéoAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C05369322CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoAppUITests" */;
+			buildConfigurationList = C08553ED2CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoAppUITests" */;
 			buildPhases = (
-				C053691E2CED3D180084F6AE /* Sources */,
-				C053691F2CED3D180084F6AE /* Frameworks */,
-				C05369202CED3D180084F6AE /* Resources */,
+				C08553D92CEEE9CA00F709FA /* Sources */,
+				C08553DA2CEEE9CA00F709FA /* Frameworks */,
+				C08553DB2CEEE9CA00F709FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C05369242CED3D180084F6AE /* PBXTargetDependency */,
+				C08553DF2CEEE9CA00F709FA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				C05369252CED3D180084F6AE /* MetéoAppUITests */,
+				C08553E02CEEE9CA00F709FA /* MetéoAppUITests */,
 			);
 			name = "MetéoAppUITests";
 			packageProductDependencies = (
 			);
 			productName = "MetéoAppUITests";
-			productReference = C05369222CED3D180084F6AE /* MetéoAppUITests.xctest */;
+			productReference = C08553DD2CEEE9CA00F709FA /* MetéoAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C05369002CED3D160084F6AE /* Project object */ = {
+		C08553BB2CEEE9C800F709FA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					C05369072CED3D160084F6AE = {
+					C08553C22CEEE9C800F709FA = {
 						CreatedOnToolsVersion = 16.1;
 					};
-					C05369172CED3D180084F6AE = {
+					C08553D22CEEE9CA00F709FA = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = C05369072CED3D160084F6AE;
+						TestTargetID = C08553C22CEEE9C800F709FA;
 					};
-					C05369212CED3D180084F6AE = {
+					C08553DC2CEEE9CA00F709FA = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = C05369072CED3D160084F6AE;
+						TestTargetID = C08553C22CEEE9C800F709FA;
 					};
 				};
 			};
-			buildConfigurationList = C05369032CED3D160084F6AE /* Build configuration list for PBXProject "MetéoApp" */;
+			buildConfigurationList = C08553BE2CEEE9C800F709FA /* Build configuration list for PBXProject "MetéoApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C05368FF2CED3D160084F6AE;
+			mainGroup = C08553BA2CEEE9C800F709FA;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C05369092CED3D160084F6AE /* Products */;
+			productRefGroup = C08553C42CEEE9C800F709FA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C05369072CED3D160084F6AE /* MetéoApp */,
-				C05369172CED3D180084F6AE /* MetéoAppTests */,
-				C05369212CED3D180084F6AE /* MetéoAppUITests */,
+				C08553C22CEEE9C800F709FA /* MetéoApp */,
+				C08553D22CEEE9CA00F709FA /* MetéoAppTests */,
+				C08553DC2CEEE9CA00F709FA /* MetéoAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C05369062CED3D160084F6AE /* Resources */ = {
+		C08553C12CEEE9C800F709FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C05369162CED3D180084F6AE /* Resources */ = {
+		C08553D12CEEE9CA00F709FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C05369202CED3D180084F6AE /* Resources */ = {
+		C08553DB2CEEE9CA00F709FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C05369042CED3D160084F6AE /* Sources */ = {
+		C08553BF2CEEE9C800F709FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C05369142CED3D180084F6AE /* Sources */ = {
+		C08553CF2CEEE9CA00F709FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C053691E2CED3D180084F6AE /* Sources */ = {
+		C08553D92CEEE9CA00F709FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C053691A2CED3D180084F6AE /* PBXTargetDependency */ = {
+		C08553D52CEEE9CA00F709FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C05369072CED3D160084F6AE /* MetéoApp */;
-			targetProxy = C05369192CED3D180084F6AE /* PBXContainerItemProxy */;
+			target = C08553C22CEEE9C800F709FA /* MetéoApp */;
+			targetProxy = C08553D42CEEE9CA00F709FA /* PBXContainerItemProxy */;
 		};
-		C05369242CED3D180084F6AE /* PBXTargetDependency */ = {
+		C08553DF2CEEE9CA00F709FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C05369072CED3D160084F6AE /* MetéoApp */;
-			targetProxy = C05369232CED3D180084F6AE /* PBXContainerItemProxy */;
+			target = C08553C22CEEE9C800F709FA /* MetéoApp */;
+			targetProxy = C08553DE2CEEE9CA00F709FA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		C053692A2CED3D180084F6AE /* Debug */ = {
+		C08553E52CEEE9CA00F709FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		C053692B2CED3D180084F6AE /* Release */ = {
+		C08553E62CEEE9CA00F709FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		C053692D2CED3D180084F6AE /* Debug */ = {
+		C08553E82CEEE9CA00F709FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -417,7 +417,7 @@
 			};
 			name = Debug;
 		};
-		C053692E2CED3D180084F6AE /* Release */ = {
+		C08553E92CEEE9CA00F709FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -446,7 +446,7 @@
 			};
 			name = Release;
 		};
-		C05369302CED3D180084F6AE /* Debug */ = {
+		C08553EB2CEEE9CA00F709FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -465,7 +465,7 @@
 			};
 			name = Debug;
 		};
-		C05369312CED3D180084F6AE /* Release */ = {
+		C08553EC2CEEE9CA00F709FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,7 +484,7 @@
 			};
 			name = Release;
 		};
-		C05369332CED3D180084F6AE /* Debug */ = {
+		C08553EE2CEEE9CA00F709FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -501,7 +501,7 @@
 			};
 			name = Debug;
 		};
-		C05369342CED3D180084F6AE /* Release */ = {
+		C08553EF2CEEE9CA00F709FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -521,43 +521,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C05369032CED3D160084F6AE /* Build configuration list for PBXProject "MetéoApp" */ = {
+		C08553BE2CEEE9C800F709FA /* Build configuration list for PBXProject "MetéoApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C053692A2CED3D180084F6AE /* Debug */,
-				C053692B2CED3D180084F6AE /* Release */,
+				C08553E52CEEE9CA00F709FA /* Debug */,
+				C08553E62CEEE9CA00F709FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C053692C2CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoApp" */ = {
+		C08553E72CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C053692D2CED3D180084F6AE /* Debug */,
-				C053692E2CED3D180084F6AE /* Release */,
+				C08553E82CEEE9CA00F709FA /* Debug */,
+				C08553E92CEEE9CA00F709FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C053692F2CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoAppTests" */ = {
+		C08553EA2CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C05369302CED3D180084F6AE /* Debug */,
-				C05369312CED3D180084F6AE /* Release */,
+				C08553EB2CEEE9CA00F709FA /* Debug */,
+				C08553EC2CEEE9CA00F709FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C05369322CED3D180084F6AE /* Build configuration list for PBXNativeTarget "MetéoAppUITests" */ = {
+		C08553ED2CEEE9CA00F709FA /* Build configuration list for PBXNativeTarget "MetéoAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C05369332CED3D180084F6AE /* Debug */,
-				C05369342CED3D180084F6AE /* Release */,
+				C08553EE2CEEE9CA00F709FA /* Debug */,
+				C08553EF2CEEE9CA00F709FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C05369002CED3D160084F6AE /* Project object */;
+	rootObject = C08553BB2CEEE9C800F709FA /* Project object */;
 }
