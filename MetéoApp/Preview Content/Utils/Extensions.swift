@@ -20,4 +20,3 @@ extension Color{
     static let ForecastCardBackground = Color("Forecast Card Background")
     static let ProbabilityText = Color("Probability Text")
 }
-
